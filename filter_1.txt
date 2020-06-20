@@ -1,0 +1,15 @@
+phimmoi.net##.uniad-zonetype-preload-overlay
+phimmoi.net##.uniad-zonetype-preload-container
+phimmoi.net###uniad-balloon-wrapper
+phimmoi.net##.balloon-ad-wrap
+phimmoi.net###uniad-zone-12
+phimmoi.net##.uniad-ad-wraper.uniad-flash-wraper.uniad-zonetype-floatleft
+phimmoi.net##.uniad-zonetype-floatleft
+phimmoi.net##.uniad-zonetype-floatright
+phimmoi.net##div[style="ad-center-980"]
+phimmoi.net###uniad-zone-1
+phimmoi.net##.uniad-ad-wraper.uniad-flash-wraper.uniad-zonetype-basic
+speedtest.net##.eot-dd-content.eot-dd
+chiasenhac.vn###content-inread-video-d26744bac0244aaa8052e92173d08899-1590414573188
+chiasenhac.vn###wrapper-inread-video-d26744bac0244aaa8052e92173d08899-1590414573188
+chiasenhac.vn##iframe
