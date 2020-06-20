@@ -13,3 +13,14 @@ speedtest.net##.eot-dd-content.eot-dd
 chiasenhac.vn###content-inread-video-d26744bac0244aaa8052e92173d08899-1590414573188
 chiasenhac.vn###wrapper-inread-video-d26744bac0244aaa8052e92173d08899-1590414573188
 chiasenhac.vn##iframe
+phimmoiz.net##.uniad-zonetype-preload-overlay
+phimmoiz.net##.uniad-zonetype-preload-container
+phimmoiz.net###uniad-balloon-wrapper
+phimmoiz.net##.balloon-ad-wrap
+phimmoiz.net###uniad-zone-12
+phimmoiz.net##.uniad-ad-wraper.uniad-flash-wraper.uniad-zonetype-floatleft
+phimmoiz.net##.uniad-zonetype-floatleft
+phimmoiz.net##.uniad-zonetype-floatright
+phimmoiz.net##div[style="ad-center-980"]
+phimmoiz.net###uniad-zone-1
+phimmoiz.net##.uniad-ad-wraper.uniad-flash-wraper.uniad-zonetype-basic
