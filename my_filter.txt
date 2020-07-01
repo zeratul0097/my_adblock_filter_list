@@ -42,3 +42,4 @@ phimmoiz.com##.uniad-zonetype-floatright
 phimmoiz.com##div[style="ad-center-980"]
 phimmoiz.com###uniad-zone-1
 phimmoiz.com##.uniad-ad-wraper.uniad-flash-wraper.uniad-zonetype-basic
+thepiratebay.org###izooto-subscription-prompt
