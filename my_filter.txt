@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Version: 1.0
 ! Title: Minh's Filter
-! Last modified: 20 Jun 2020 21:51
-! Expires: 4 days (update frequency)
+! Last modified: 01 Jul 2020 08:52
+! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/zeratul0097/my_adblock_filter_list
 
 phimmoi.net##.uniad-zonetype-preload-overlay
@@ -31,3 +31,14 @@ phimmoiz.net##.uniad-zonetype-floatright
 phimmoiz.net##div[style="ad-center-980"]
 phimmoiz.net###uniad-zone-1
 phimmoiz.net##.uniad-ad-wraper.uniad-flash-wraper.uniad-zonetype-basic
+phimmoiz.com##.uniad-zonetype-preload-overlay
+phimmoiz.com##.uniad-zonetype-preload-container
+phimmoiz.com###uniad-balloon-wrapper
+phimmoiz.com##.balloon-ad-wrap
+phimmoiz.com###uniad-zone-12
+phimmoiz.com##.uniad-ad-wraper.uniad-flash-wraper.uniad-zonetype-floatleft
+phimmoiz.com##.uniad-zonetype-floatleft
+phimmoiz.com##.uniad-zonetype-floatright
+phimmoiz.com##div[style="ad-center-980"]
+phimmoiz.com###uniad-zone-1
+phimmoiz.com##.uniad-ad-wraper.uniad-flash-wraper.uniad-zonetype-basic
