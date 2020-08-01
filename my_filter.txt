@@ -43,3 +43,14 @@ phimmoiz.com##div[style="ad-center-980"]
 phimmoiz.com###uniad-zone-1
 phimmoiz.com##.uniad-ad-wraper.uniad-flash-wraper.uniad-zonetype-basic
 thepiratebay.org###izooto-subscription-prompt
+phimmoizz.net##.uniad-zonetype-preload-overlay
+phimmoizz.net##.uniad-zonetype-preload-container
+phimmoizz.net###uniad-balloon-wrapper
+phimmoizz.net##.balloon-ad-wrap
+phimmoizz.net###uniad-zone-12
+phimmoizz.net##.uniad-ad-wraper.uniad-flash-wraper.uniad-zonetype-floatleft
+phimmoizz.net##.uniad-zonetype-floatleft
+phimmoizz.net##.uniad-zonetype-floatright
+phimmoizz.net##div[style="ad-center-980"]
+phimmoizz.net###uniad-zone-1
+phimmoizz.net##.uniad-ad-wraper.uniad-flash-wraper.uniad-zonetype-basic
