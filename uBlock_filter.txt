@@ -1,0 +1,28 @@
+! Title: Minh's uBlock filters
+! Expires: 30 days
+! Description: Filters optimized for uBlock, to be used along EasyList
+! Homepage: https://github.com/zeratul0097/my_adblock_filter_list
+
+! Speedtest.net
+speedtest.net##.eot-dd-content.eot-dd
+
+! Chiasenhac
+chiasenhac.vn###content-inread-video-d26744bac0244aaa8052e92173d08899-1590414573188
+chiasenhac.vn###wrapper-inread-video-d26744bac0244aaa8052e92173d08899-1590414573188
+chiasenhac.vn##iframe
+
+! ThePirateBay
+thepiratebay.org###izooto-subscription-prompt
+
+! Phimmoi.net
+phimmoizz.net##.uniad-zonetype-preload-overlay
+phimmoizz.net##.uniad-zonetype-preload-container
+phimmoizz.net###uniad-balloon-wrapper
+phimmoizz.net##.balloon-ad-wrap
+phimmoizz.net###uniad-zone-12
+phimmoizz.net##.uniad-ad-wraper.uniad-flash-wraper.uniad-zonetype-floatleft
+phimmoizz.net##.uniad-zonetype-floatleft
+phimmoizz.net##.uniad-zonetype-floatright
+phimmoizz.net##div[style="ad-center-980"]
+phimmoizz.net###uniad-zone-1
+phimmoizz.net##.uniad-ad-wraper.uniad-flash-wraper.uniad-zonetype-basic
