@@ -28,4 +28,4 @@ phimmoizz.net###uniad-zone-1
 phimmoizz.net##.uniad-ad-wraper.uniad-flash-wraper.uniad-zonetype-basic
 
 ! metruyenchu.com
-metruyenchu.com##div.p-2.mb-0.mt-3.nh-read__alert.text-center:nth-of-type(1)
+metruyenchu.com##nh-read__alert
