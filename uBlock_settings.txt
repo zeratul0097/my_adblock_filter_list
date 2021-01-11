@@ -1,0 +1,58 @@
+{
+  "timeStamp": 1610377157621,
+  "version": "1.32.4",
+  "userSettings": {
+    "advancedUserEnabled": false,
+    "alwaysDetachLogger": true,
+    "autoUpdate": true,
+    "cloudStorageEnabled": false,
+    "collapseBlocked": true,
+    "colorBlindFriendly": false,
+    "contextMenuEnabled": true,
+    "dynamicFilteringEnabled": false,
+    "externalLists": "https://raw.githubusercontent.com/zeratul0097/my_adblock_filter_list/master/uBlock_filter.txt",
+    "firewallPaneMinimized": true,
+    "hyperlinkAuditingDisabled": true,
+    "ignoreGenericCosmeticFilters": false,
+    "largeMediaSize": 50,
+    "parseAllABPHideFilters": true,
+    "popupPanelSections": 7,
+    "prefetchingDisabled": true,
+    "requestLogMaxEntries": 1000,
+    "showIconBadge": false,
+    "tooltipsDisabled": true,
+    "webrtcIPAddressHidden": true
+  },
+  "selectedFilterLists": [
+    "user-filters",
+    "ublock-filters",
+    "ublock-badware",
+    "ublock-privacy",
+    "ublock-abuse",
+    "ublock-unbreak",
+    "easylist",
+    "easyprivacy",
+    "urlhaus-1",
+    "plowe-0",
+    "VIE-1",
+    "https://raw.githubusercontent.com/zeratul0097/my_adblock_filter_list/master/uBlock_filter.txt"
+  ],
+  "hiddenSettings": {
+    "blockingProfiles": "11111/#F00 11011/#C0F 11001/#00F 00001"
+  },
+  "whitelist": [
+    "about-scheme",
+    "chrome-extension-scheme",
+    "chrome-scheme",
+    "edge-scheme",
+    "moz-extension-scheme",
+    "opera-scheme",
+    "vivaldi-scheme",
+    "wyciwyg-scheme"
+  ],
+  "netWhitelist": "about-scheme\nchrome-extension-scheme\nchrome-scheme\nedge-scheme\nmoz-extension-scheme\nopera-scheme\nvivaldi-scheme\nwyciwyg-scheme",
+  "dynamicFilteringString": "behind-the-scene * * noop\nbehind-the-scene * inline-script noop\nbehind-the-scene * 1p-script noop\nbehind-the-scene * 3p-script noop\nbehind-the-scene * 3p-frame noop\nbehind-the-scene * image noop\nbehind-the-scene * 3p noop\nopen.spotify.com akamaized.net * block\nopen.spotify.com audio-akp-quic-control-spotify-com.akamaized.net * block\nopen.spotify.com facebook.net * block\nopen.spotify.com connect.facebook.net * block\nopen.spotify.com fastly-insights.com * block\nopen.spotify.com google.com * block\nopen.spotify.com googletagmanager.com * block\nopen.spotify.com googletagservices.com * block\nopen.spotify.com www.googletagservices.com * block\nopen.spotify.com gstatic.com * block\nopen.spotify.com s3.amazonaws.com * block\nopen.spotify.com scorecardresearch.com * block\nopen.spotify.com pixel-static.spotify.com * block",
+  "urlFilteringString": "",
+  "hostnameSwitchesString": "no-large-media: behind-the-scene false\nno-csp-reports: * true",
+  "userFilters": "127.0.0.1 adclick.g.doublecklick.net\n127.0.0.1 adeventtracker.spotify.com\n127.0.0.1 ads-fa.spotify.com\n127.0.0.1 analytics.spotify.com\n127.0.0.1 audio2.spotify.com\n127.0.0.1 b.scorecardresearch.com\n127.0.0.1 bounceexchange.com\n127.0.0.1 bs.serving-sys.com\n127.0.0.1 content.bitsontherun.com\n127.0.0.1 core.insightexpressai.com\n127.0.0.1 crashdump.spotify.com\n127.0.0.1 d2gi7ultltnc2u.cloudfront.net\n127.0.0.1 d3rt1990lpmkn.cloudfront.net\n127.0.0.1 doubleclick.net\n127.0.0.1 ds.serving-sys.com\n127.0.0.1 googleadservices.com\n127.0.0.1 googleads.g.doubleclick.net\n127.0.0.1 gtssl2-ocsp.geotrust.com\n127.0.0.1 js.moatads.com\n127.0.0.1 log.spotify.com\n127.0.0.1 media-match.com\n127.0.0.1 omaze.com\n127.0.0.1 pagead46.l.doubleclick.net\n127.0.0.1 pagead2.googlesyndication.com\n127.0.0.1 partner.googleadservices.com\n127.0.0.1 pubads.g.doubleclick.net\n127.0.0.1 redirector.gvt1.com\n127.0.0.1 s0.2mdn.net\n127.0.0.1 securepubads.g.doubleclick.net\n127.0.0.1 tpc.googlesyndication.com\n127.0.0.1 v.jwpcdn.com\n127.0.0.1 video-ad-stats.googlesyndication.com\n127.0.0.1 weblb-wg.gslb.spotify.com\n127.0.0.1 www.googleadservices.com\n127.0.0.1 www.googletagservices.com\n"
+}
