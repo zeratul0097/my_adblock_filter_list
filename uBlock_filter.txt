@@ -30,3 +30,4 @@ phimmoizz.net##.uniad-ad-wraper.uniad-flash-wraper.uniad-zonetype-basic
 ! metruyenchu.com
 metruyenchu.com##.nh-read__alert
 metruyenchu.com##.bx_wrapper_handmoney
+metruyenchu.com###tpads_middle_article_01_container
