@@ -1,5 +1,5 @@
 ! Title: Minh's uBlock filters
-! Expires: 30 days
+! Expires: 7 days
 ! Description: Filters optimized for uBlock, to be used along EasyList
 ! Homepage: https://github.com/zeratul0097/my_adblock_filter_list
 
